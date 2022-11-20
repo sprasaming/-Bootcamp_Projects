@@ -7,7 +7,7 @@ We learn 10 sprints during 4 month program.
 - SQL Database
 - [R Programming](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_R%20Programming)
 - [Data Transformation](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Data%20Transformation)
-- Data Visualization + Storytelling
+- [Data Visualization + Storytelling](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Data%20Visualization%20%2B%20Storytelling)
 - Business Analytics and Statistics
 - Intro to Classical Machine Learning
 - [Intro to Python](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Intro%20to%20Python)
