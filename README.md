@@ -6,7 +6,7 @@ We learn 10 sprints during 4 month program.
 - Analyzing Data with Spreadsheets
 - SQL Database
 - [R Programming](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_R%20Programming)
-- Data Transformation
+- [Data Transformation](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Data%20Transformation)
 - Data Visualization + Storytelling
 - Business Analytics and Statistics
 - Intro to Classical Machine Learning
