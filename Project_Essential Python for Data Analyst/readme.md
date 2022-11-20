@@ -1,4 +1,5 @@
-## Project_Essential Python for Data Analyst
+# Data science bootcamp with `DataRockie`
+## Sprint Essential Python for Data Analyst
 
 ## Pandas Foundation
 ### Basic Python
