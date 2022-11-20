@@ -8,6 +8,8 @@ Function
 3. arrange() => ORDER BY
 4. mutate() => SELECT .. AS new Column
 5. summarise() + group_by()
+
+<br>
 Join Tables
 Refactor Code
 Connect Sql Database
