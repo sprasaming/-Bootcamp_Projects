@@ -1,4 +1,5 @@
-## Project_R Programming
+# Data science bootcamp with `DataRockie`
+## Sprints R Programming
 
 - Variables
 - Data types
