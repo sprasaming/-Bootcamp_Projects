@@ -10,7 +10,7 @@ We learn 10 sprints during 4 month program.
 - Data Visualization + Storytelling
 - Business Analytics and Statistics
 - Intro to Classical Machine Learning
-- Intro to Python
+- [Intro to Python](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Intro%20to%20Python)
 - Essential Python for Data Analyst
 - Dashboard Google Data Studio + Tableau Public + Power BI
 
