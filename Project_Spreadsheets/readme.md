@@ -1,7 +1,7 @@
-# Data science bootcamp with `DataRockie`
+## Data science bootcamp with `DataRockie`
 ## Sprints Spreadsheets is Awesome
 
-## Google Sheets 101
+### Google Sheets 101
 
 - Why Google Sheets
 - Manually Input Data
@@ -15,7 +15,7 @@
 - AVERAGEIF SUMIF
 
 [Google Sheets 101 File](https://docs.google.com/spreadsheets/d/1pVKDpHKlUI7CuXUX6FHlozX0j7c8AZ6q4tW0lliNiRQ/edit#gid=921921327)
-## Google Sheets 102
+### Google Sheets 102
 
 - Import Data
 - Countifs
@@ -29,7 +29,7 @@
 - DATEDIF
 
 [Google Sheets 102 File](https://docs.google.com/spreadsheets/d/1SYabjXHeVGyUNhXDO49qQSG6eADpWw1405hQW8UlpXA/edit#gid=1720028959)
-## Google Sheets 103
+### Google Sheets 103
 
 - Query Function
 - Select Data
@@ -43,7 +43,7 @@
 - Dynamic Query
 
 [Google Sheets 103 File](https://docs.google.com/spreadsheets/d/1iqKnPrRZWn7G5WQZqY4qEnSdDuGn2wediNzVjBWGlGU/edit#gid=554175416)
-## Google Sheets 104
+### Google Sheets 104
 
 - Where is Pivot Table in GG Sheets
 - Intro to Pivot Table
@@ -51,7 +51,7 @@
   
 [Google Sheets 104 File](https://docs.google.com/spreadsheets/d/1z4RREH3o39p4guu_-48fnoVNPv9hkCd0PscNxMkEA7E/edit#gid=0&fvid=2001378553)
   
-## Spreadsheets is Awesome	
+### Spreadsheets is Awesome	
 -	Data Entry
 -	Array Formula
 -	Import Data
