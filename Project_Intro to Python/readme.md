@@ -10,10 +10,10 @@ Contents :
 6. Control Flow
 7. OOP( Object Oriented Programming )
 
-<br>
-## Homework
 
-1. Game เป่ายิ้งฉุบ Python
+## Homework
+<br>
+1. Game เป่ายิ้งฉุบ Python</br><br>
 2. Class ATM
 </br>
 [Homework](https://colab.research.google.com/drive/1Gsb1pE0FXgoevRxLI_qKag9lxx_8gdzV#scrollTo=7FjVfpe32H1t)
