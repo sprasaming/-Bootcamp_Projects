@@ -3,7 +3,7 @@ Data science bootcamp with `DataRockie`
 
 We learn 10 sprints during 4 month program.
 
-- Analyzing Data with Spreadsheets
+- [Analyzing Data with Spreadsheets](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Spreadsheets)
 - SQL Database
 - [R Programming](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_R%20Programming)
 - [Data Transformation](https://github.com/sprasaming/Bootcamp_Projects/tree/main/Project_Data%20Transformation)
