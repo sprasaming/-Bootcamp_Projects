@@ -10,6 +10,8 @@ Contents :
 6. Control Flow
 7. OOP( Object Oriented Programming )
 
+[Learning google colab](https://colab.research.google.com/drive/1Gsb1pE0FXgoevRxLI_qKag9lxx_8gdzV)
+
 ## Homework
 1. Game เป่ายิ้งฉุบ Python
 2. Class ATM
