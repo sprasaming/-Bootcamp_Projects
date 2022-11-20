@@ -1,7 +1,7 @@
 # Project_Essential Python for Data Analyst
 
 ## Pandas Foundation
-Basic Python
+### Basic Python
 1. Variable
 2. String
 3. String methods
@@ -9,7 +9,8 @@ Basic Python
 5. Dictionary
 6. Function
 7. OOP
-Pandas documentation
+
+### Pandas documentation
 1. Getting started with pandas
 2. Create a new dataframe from sc...
 3. Add a new column
