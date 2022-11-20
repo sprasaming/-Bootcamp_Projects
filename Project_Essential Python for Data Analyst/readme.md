@@ -1,4 +1,4 @@
-# Project_Essential Python for Data Analyst
+## Project_Essential Python for Data Analyst
 
 ## Pandas Foundation
 ### Basic Python
@@ -39,6 +39,9 @@
 15. Map values
 
 [Learning Project Google colab](https://colab.research.google.com/drive/1syFuGsvhBnCLKgR-mkJty7nuSnhMKzvD)<br>
+
+## Final Project
+Course: Pandas Foundation
 
 [Final Project Datalore](https://datalore.jetbrains.com/notebook/cOZeyVaniPRY8W3M9dK4po/xdg3oIvLNUq2eBAm1d7cHQ/)
 
