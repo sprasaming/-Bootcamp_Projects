@@ -2,3 +2,12 @@
 
 Sprints Data Transformation
 
+Function
+1. select() => SELECT
+2. filter() => WHERE
+3. arrange() => ORDER BY
+4. mutate() => SELECT .. AS new Column
+5. summarise() + group_by()
+Join Tables
+Refactor Code
+Connect Sql Database
