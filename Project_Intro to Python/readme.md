@@ -1,5 +1,6 @@
 # Data science bootcamp with `DataRockie`
-## Sprints Intro to Python
+
+Sprints Intro to Python
 
 Contents :
 
