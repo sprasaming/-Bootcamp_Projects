@@ -1,4 +1,4 @@
-# Data science bootcamp with `DataRockie`
+## Data science bootcamp with `DataRockie`
 ## Sprints R Programming
 
 - Variables
