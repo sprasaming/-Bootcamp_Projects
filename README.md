@@ -17,4 +17,4 @@ We learn 10 sprints during 4 month program.
 Badges: https://badgr.com/public/assertions/MmhHn9D2T0WiWERshRO0fA
 
 
-![](https://komarev.com/ghpvc/?username=sprasaming/Bootcamp_Project&color=green)
+![](https://komarev.com/ghpvc/?username=sprasaming&color=green)
